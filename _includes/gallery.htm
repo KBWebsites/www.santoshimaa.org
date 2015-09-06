@@ -1,0 +1,7 @@
+<div class="gallery-images">
+{% for image in include.images %}
+{% capture img_url %}//i{% cycle '0', '1', '2' %}.wp.com/{{site.domain}}{{image}}{% endcapture %}
+<a rel="gallery" href="{{img_url}}"><img src="{{img_url}}?h={{include.image_height}}" alt="" style="height:{{include.image_height}}px" /></a>
+{% endfor %}
+</div>
+<br/>

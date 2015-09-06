@@ -1,0 +1,42 @@
+*{margin:0;padding:0}
+body{margin:auto; padding:5px; width:999px; background:#600; background: linear-gradient(#300, #600 250px) no-repeat #600; font:14px Trebuchet MS,sans-serif; line-height:30px}
+img{border:0}
+h1{font-size:23px; font-weight:normal}
+a{color:#f00; text-decoration:none}
+a:hover{text-decoration:underline}
+p{text-align:justify; padding-bottom:8px; line-height: 25px}
+ul,ol{padding:0;list-style-position:inside}
+ul{list-style-type:none}
+ul li{padding-left:25px;background:url(/-/img/om.png) no-repeat 0 8px}
+th,td{padding:5px;border:1px solid #444}
+marquee{display:block}
+input[type=text],input[type=email],textarea{border:1px solid rgba(0,0,0,0.3); padding: 5px 7px; border-radius: 0; -webkit-appearance: none}
+button{padding: 10px 15px}
+hr{border: 1px solid #ccc; width: 45%; background: none; margin: 0 0 10px}
+
+#header{text-align:center; margin:25px 0; clear:both}
+#wrapper{width: 1000px; float: left; background: #fff; background: linear-gradient(lightgray 0%, white 20%); box-shadow: 0 0 25px 1px #000; border-radius: 10px;}
+#content{float:right; width:700px; padding:15px 25px}
+#sidebar{float:left; width:200px; padding:15px 25px}
+#sidebar h1{text-align:center}
+#sidebar ul{background:#600; border-radius:10px; float:left; width:170px; margin-top:15px; padding:10px 15px}
+#sidebar ul a{color:#fff}
+#header-marquee{font-size: 16px; text-transform: uppercase; background: #600; color:#fff; padding: 7px; border-radius: 10px 10px 0 0;}
+#footer-marquee{border-top: 1px solid #600; padding: 6px 0 7px; clear:both}
+#footer{clear:both}
+#footer p{text-align:center; color:#fff; padding:10px; margin:0}
+
+#header h1{
+font-family: Verdana, sans-serif;
+line-height: 1em;
+color: #ffffff;
+font-weight:bold;
+font-size: 64px;
+text-shadow:0px 0px 0 rgb(213,213,213),1px 1px 0 rgb(200,200,200),2px 2px 0 rgb(188,188,188),3px 3px 0 rgb(175,175,175),4px 4px 0 rgb(162,162,162),5px 5px 0 rgb(149,149,149),6px 6px 0 rgb(137,137,137),7px 7px 0 rgb(124,124,124),8px 8px 0 rgb(111,111,111), 9px 9px 0 rgb(98,98,98),10px 10px 9px rgba(0,0,0,1),10px 10px 1px rgba(0,0,0,0.5),0px 0px 9px rgba(0,0,0,.2);}
+
+.issuuembed span{display:none}
+
+#comments p{white-space: pre-wrap; margin-bottom: 16px}
+#comments b,#comments time{display:inline-block; background: rgba(0,0,0,0.1); border:1px solid rgba(0,0,0,0.3); padding: 0 10px; margin: 5px 0; box-sizing: border-box}
+#comments b{width:70%; border-right: 0}
+#comments time {width:30%; text-align: right; border-left: 0}

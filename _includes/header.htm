@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{% unless page.url == '/' %}{{page.title}} &middot; {% endunless %}{{site.name}}</title>
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/-/css/main.css" />
+{% if page.css %}<link rel="stylesheet" href="{{page.css}}" />{% endif %}
+{% if page.css2 %}<link rel="stylesheet" href="{{page.css2}}" />{% endif %}
+</head>
+<body>
+<div id="header">
+<h1>{{ site.name }}</h1>
+</div>
+<div id="wrapper">
+{% comment %}<marquee id="header-marquee">Annual function of Santoshi Maa at Mariani, Assam is on 22nd May 2015 (Friday) :: All devotees are cordially invited</marquee>{% endcomment %}
+<div id="sidebar">
+<h1><a href="{{page.url}}">{{page.title}}</a></h1>
+<ul>
+{% include nav.htm nav=site.nav %}
+</ul>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FMaaSantoshiMaa&amp;width=200&amp;height=300&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=112094522216863" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width: 200px; height: 300px; margin-top: 10px" allowtransparency="true"></iframe>
+</div>
+<div id="content">
