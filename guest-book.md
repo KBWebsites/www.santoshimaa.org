@@ -12,6 +12,7 @@ id: santoshimaa
 <input type="text" id="name" name="name" style="width:50%" required><br>
 <label for="msg">Message</label><br>
 <textarea id="msg" name="msg" rows="8" style="width:50%" required></textarea><br>
+<input type="text" name="foo" style="display:none">
 <button type="submit">Post</button>
 </form>
 
