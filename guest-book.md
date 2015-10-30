@@ -18,9 +18,11 @@ id: santoshimaa
 
 <br>
 
-<div id="comments"><noscript>Not </noscript>Loading...<noscript> (Please enable JavaScript or use a different browser to view this page.)</noscript></div>
+<div id="comments"><div id="loaded"><noscript>Not </noscript>Loading...<noscript> (Please enable JavaScript or use a different browser to view this page.)</noscript></div>
+{% include gb.htm %}
+</div>
 <script>
-$('#comments').load('https://a.kishan.info/comments/{{ page.id }}.htm', function() {
+$('#loaded').load('https://a.kishan.info/comments/{{ page.id }}.htm', function() {
     $('time').timeago().each(function(){
         $(this).attr('title', new Date($(this).attr('datetime')).toString().replace(/ GMT.*/,''));
     });
