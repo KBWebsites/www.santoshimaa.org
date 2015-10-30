@@ -22,7 +22,7 @@ hr{border: 1px solid #ccc; width: 45%; background: none; margin: 0 0 10px}
 #sidebar ul{background:#600; border-radius:10px; float:left; width:170px; margin-top:15px; padding:10px 15px}
 #sidebar ul a{color:#fff}
 #header-marquee{font-size: 16px; text-transform: uppercase; background: #600; color:#fff; padding: 7px; border-radius: 10px 10px 0 0;}
-#footer-marquee{border-top: 1px solid #600; padding: 6px 0 7px; clear:both}
+#footer-marquee{border-top: 1px solid #600; padding: 6px 0 7px; clear:both; text-align:center}
 #footer{clear:both}
 #footer p{text-align:center; color:#fff; padding:10px; margin:0}
 
