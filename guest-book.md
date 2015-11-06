@@ -10,7 +10,7 @@ id: santoshimaa
 <form id="post-form" action="https://a.kishan.info/comments/?id={{ page.id }}" method="post">
 <label for="name">Name</label><br>
 <input type="text" id="name" name="name" style="width:50%" required><br>
-<label for="msg">Message</label><br>
+<label for="msg">Comment (please do not post any personally identifiable information here)</label><br>
 <textarea id="msg" name="msg" rows="8" style="width:50%" required></textarea><br>
 <input type="text" name="foo" style="display:none">
 <button type="submit">Post</button>
@@ -32,6 +32,7 @@ $('#post-form').submit(function(event){
     $('#post-msg').text('Posting...');
     $.post( $('#post-form').attr('action'), $('#post-form').serialize(), function(res) {
         $('#post-msg').text(res);
+        $('#post-form').hide();
     }, 'text' );
     event.preventDefault();
 });
