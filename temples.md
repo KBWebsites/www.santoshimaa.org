@@ -73,6 +73,13 @@ Rajasthan, India
 
 ***
 
+### Gujarat, India
+
+Koba Circle  
+Airport Gandhinagar Road  
+Ahmedabad  
+Gujarat, India
+
 ### West Bengal, India
 
 Ma Santoshi Mandir  
