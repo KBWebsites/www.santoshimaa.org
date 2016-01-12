@@ -80,6 +80,8 @@ Airport Gandhinagar Road
 Ahmedabad  
 Gujarat, India
 
+***
+
 ### West Bengal, India
 
 Ma Santoshi Mandir  
@@ -88,6 +90,15 @@ Radha Nagar Road
 Chitra Cinema Hall  
 Asansol District  
 Burdwan, West Bengal 
+
+***
+
+C.M.E Gate  
+South Side  
+Kharagpur - 721 301  
+West Midnapore District  
+West Bengal  
+Phone: 8972696173, 9851221920
 
 ***
 
