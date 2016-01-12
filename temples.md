@@ -145,8 +145,8 @@ Karnataka, India
 No. 41 Binny Mill Road  
 Near Cottonpet  
 Bangalore - 560 053  
-Karnataka, India
-9845023999
+Karnataka, India  
+Ph: 9845023999
 
 ***
 
@@ -155,7 +155,7 @@ Bangalore Road, Malapalli,
 Chintamani,  
 Karnataka - 563 125  
 Landmark - Near Anjani Theatre or KSRTC Depo  
-Ph : 9916932558
+Ph: 9916932558
 
 ***
 
