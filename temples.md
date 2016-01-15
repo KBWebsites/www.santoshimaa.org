@@ -7,7 +7,7 @@ layout: default
 Santoshi Maa Temple  
 Mariani  
 Jorhat  
-Assam, India  
+Assam  
 Tel: 03771 243504
 
 ***
@@ -17,7 +17,7 @@ Tel: 03771 243504
 S Old Maredpally  
 Picket  
 Secunderabad  
-Andhra Pradesh, India
+Andhra Pradesh
 
 ***
 
@@ -25,7 +25,7 @@ Santoshi Maa Temple
 Near Chittinagar  
 Opp. Sai Ram Theatre  
 Vijayawada  
-Andhra Pradesh, India
+Andhra Pradesh
 
 ***
 
@@ -33,14 +33,14 @@ Andhra Pradesh, India
 
 Hunter Road  
 Warangal City  
-Telangana, India
+Telangana
 
 ***
 
 Santoshi Temple  
 Kutbi Guda, Kachiguda  
 Hyderabad - 500027  
-Telangana, India  
+Telangana  
 +91 96188 83828
 
 ***
@@ -49,7 +49,7 @@ Telangana, India
 
 Virugambakkam  
 Chennai  
-Tamil Nadu, India  
+Tamil Nadu  
 Tel: 42016638 (city code 044)
 
 ***
@@ -69,7 +69,7 @@ Website : [www.srijaisanthoshi.com](http://www.srijaisanthoshi.com/)
 Pragat Santoshi Maa Temple  
 Lall Sagar  
 Jodhpur  
-Rajasthan, India
+Rajasthan
 
 ***
 
@@ -78,7 +78,7 @@ Rajasthan, India
 Koba Circle  
 Airport Gandhinagar Road  
 Ahmedabad  
-Gujarat, India
+Gujarat
 
 ***
 
@@ -110,14 +110,14 @@ Near Authurroad Jail
 Sane Guruji road  
 Chinchpokli (W)  
 Mumbai - 12  
-Maharastra, India
+Maharastra
 
 ***
 
 Shree Santoshimataji Mandir  
 486 M. Aazad Road, Ladi Bazar  
 Mumbai - 4  
-Maharastra, India  
+Maharastra  
 Tel: 23857356
 
 ***
@@ -149,14 +149,14 @@ Seshadripuram Main Road
 Next to Tata Indicom showroom  
 Near Seshadripuram Petrol Pump  
 Bangalore  
-Karnataka, India
+Karnataka
 
 ***
 
 No. 41 Binny Mill Road  
 Near Cottonpet  
 Bangalore - 560 053  
-Karnataka, India  
+Karnataka  
 Ph: 9845023999
 
 ***
@@ -175,7 +175,7 @@ Ph: 9916932558
 Santoshi Maa Temple  
 Harinagar  
 Near Bus Depot  
-Delhi, India
+Delhi
 
 ***
 
@@ -186,7 +186,14 @@ Doomardaga, Booty,
 Near Choudhary Service Center,  
 Ranchi,  
 Jharkhand - 835 217  
-India
+
+***
+
+Mata Santoshi Mandir  
+Santoshidham  
+Chakradharpur - 833 102  
+West Singhbhum  
+Jharkhand
 
 ***
 
@@ -196,7 +203,7 @@ Santoshi Mata Mandir,
 Village Kanhe Ka Bara,  
 Karoran,  
 Rupnagar,  
-Punjab, India
+Punjab
 
 ***
 
@@ -205,7 +212,7 @@ Punjab, India
 Village Rataniyapur,  
 Teh. Derapur,  
 Dist. Kanpur Rural  
-Uttar Pradesh, India
+Uttar Pradesh
 
 ***
 
@@ -215,4 +222,4 @@ Near BSNL Office,
 Bara Chauraha,  
 M.G. Road,  
 Kanpur Nagar,  
-Uttar Pradesh, India
+Uttar Pradesh
