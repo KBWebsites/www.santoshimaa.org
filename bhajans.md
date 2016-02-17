@@ -20,3 +20,14 @@ layout: default
 [Na Chitthi Aayee](/files/bhajans/2006/Na Chitthi Aayee.wma)  
 [Taro Taro](/files/bhajans/2006/Taro Taro.wma)  
 [Yahaan Wahaan](/files/bhajans/2006/Yahaan Wahaan.wma)
+
+### Ringtones
+
+#### Main To Aarti Utaroon
+51 seconds - [Download MP3][51mp3] | [Download AAC][51aac]  
+39 seconds - [Download MP3][39mp3] | [Download AAC][39aac]
+
+[51mp3]: /files/ringtones/Main-To-Aarti-Utaroon.mp3
+[39mp3]: /files/ringtones/Main-To-Aarti-Utaroon-Trimmed.mp3
+[51aac]: /files/ringtones/Main-To-Aarti-Utaroon.aac
+[39aac]: /files/ringtones/Main-To-Aarti-Utaroon-Trimmed.aac
