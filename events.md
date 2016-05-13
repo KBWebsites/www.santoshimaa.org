@@ -58,7 +58,7 @@ gallery2016:
 ---
 ### Santoshi Maa Festival at Mariani, Jorhat, Assam on 13th May, 2016 (Friday):
 
-{% include gallery.htm images=page.gallery2016 image_height=195 %}
+{% include gallery.htm images=page.gallery2016 image_height=250 %}
 
 ### Santoshi Maa Festival at Mariani, Jorhat, Assam on 22nd May, 2015 (Friday):
 
