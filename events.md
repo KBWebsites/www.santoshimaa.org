@@ -46,7 +46,20 @@ gallery2015:
 - /files/events/2015/12.jpg
 - /files/events/2015/13.jpg
 - /files/events/2015/14.jpg
+gallery2016:
+- /files/events/2016/1.jpg
+- /files/events/2016/2.jpg
+- /files/events/2016/3.jpg
+- /files/events/2016/4.jpg
+- /files/events/2016/5.jpg
+- /files/events/2016/6.jpg
+- /files/events/2016/7.jpg
+- /files/events/2016/8.jpg
 ---
+### Santoshi Maa Festival at Mariani, Jorhat, Assam on 13th May, 2016 (Friday):
+
+{% include gallery.htm images=page.gallery2016 image_height=195 %}
+
 ### Santoshi Maa Festival at Mariani, Jorhat, Assam on 22nd May, 2015 (Friday):
 
 <iframe width="100%" height="400" src="//www.youtube.com/embed/-1cMSFikgUs" frameborder="0" allowfullscreen></iframe>
