@@ -24,7 +24,7 @@ th,td{padding:0;border:0}
 |[Maa Santoshi Maa Jai Maa](/files/bhajans/2006/01 Maa Santoshi Maa Jai Maa.mp3)       |  [[Lyrics]](/lyrics/maa-santoshi-maa-jai-maa/)|
 |[Main To Aarti Utaroon](/files/bhajans/2006/03 Main to Aarti Utaroon.mp3)             |  [[Lyrics]](/lyrics/main-to-aarti-utaroon/)   |
 |[Na Chitthi Aayee](/files/bhajans/2006/07 Na Chitthi Aayee.mp3)                       |  [[Lyrics]](/lyrics/na-chitthi-aayee/)        |
-|[Taro Taro](/files/bhajans/2006/Taro Taro.mp3)                                        |  [[Lyrics]](/lyrics/taro-taro/)               |
+|[Taro Taro](/files/bhajans/2006/11 Taro Taro.mp3)                                     |  [[Lyrics]](/lyrics/taro-taro/)               |
 |[Yahaan Wahaan](/files/bhajans/2006/04 Yahaan Wahaan.mp3)                             |  [[Lyrics]](/lyrics/yahaan-wahaan/)           |
 
 ### Ringtones
