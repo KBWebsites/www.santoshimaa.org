@@ -161,6 +161,15 @@ Ph: 9845023999
 
 ***
 
+Santoshi Mata Temple  
+94/3 Balepet  
+Killari Road  
+Majestic  
+Bangalore - 560 002  
+Karnataka
+
+***
+
 Beside Matrushree Hospital  
 Bangalore Road, Malapalli,  
 Chintamani,  
