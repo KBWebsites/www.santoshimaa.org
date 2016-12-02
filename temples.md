@@ -147,6 +147,18 @@ Tel: 23857356
 
 ***
 
+Santoshi Mata Temple
+Mulund West
+Close to Check Naka
+
+***
+
+Santoshi Mata Temple
+Ashagadh
+Dahanu
+
+***
+
 ### Karnataka, India
 
 Jai Santhoshimatha Temple, Arekere, Bangalore  
