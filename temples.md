@@ -178,7 +178,15 @@ Arekere, Bangalore-76
 Contact:  
 Geeta Narwani  
 <puransbangalore@gmail.com>  
-09845267149
+Ph: 9845267149
+
+***
+
+	
+Jai Santoshi Mata Mandir  
+Mungnal  
+Karnataka  
+Ph: 9482106585
 
 ***
 
