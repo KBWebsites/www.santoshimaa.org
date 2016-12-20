@@ -149,15 +149,17 @@ Tel: 23857356
 
 ***
 
-Santoshi Mata Temple
-Mulund West
-Close to Check Naka
+Santoshi Mata Temple  
+Mulund West  
+Close to Check Naka  
+Thane, Maharashtra
 
 ***
 
-Santoshi Mata Temple
-Ashagadh
-Dahanu
+Santoshi Mata Temple  
+Ashagadh  
+Dahanu  
+Maharashtra
 
 ***
 
