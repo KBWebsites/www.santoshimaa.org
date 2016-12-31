@@ -72,6 +72,15 @@ Telangana
 
 ***
 
+### Madhya Pradesh, India
+
+Sri Santoshi Mata Temple  
+Garha Bazar, Garha  
+Jabalpur  
+Madhya Pradesh
+
+***
+
 ### Tamil Nadu, India
 
 Virugambakkam  
