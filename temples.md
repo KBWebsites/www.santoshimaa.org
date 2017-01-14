@@ -38,74 +38,12 @@ Andhra Pradesh
 
 ***
 
-### Orissa, India
+### Delhi, India
 
-Shri Santoshi Maa Mandir,  
-Shani Mandir Gali,  
-Manik Ghose Bajar,  
-Cuttack - 753002  
-Orissa
-
-***
-
-Santoshi Mata Mandir,  
-Main Cuttack - Puri Road,  
-Bomikhal,  
-Bhubaneswar - 751006  
-Orissa
-
-***
-
-### Telangana, India
-
-Hunter Road  
-Warangal City  
-Telangana
-
-***
-
-Santoshi Temple  
-Kutbi Guda, Kachiguda  
-Hyderabad - 500027  
-Telangana  
-+91 96188 83828
-
-***
-
-### Madhya Pradesh, India
-
-Sri Santoshi Mata Temple  
-Garha Bazar, Garha  
-Jabalpur  
-Madhya Pradesh
-
-***
-
-### Tamil Nadu, India
-
-Virugambakkam  
-Chennai  
-Tamil Nadu  
-Tel: 42016638 (city code 044)
-
-***
-
-Sri Santhoshi Matha Temple,  
-A/137 A, Santhoshi Nivash,  
-Jai Nagar, Thiruverumbur,  
-Trichy - 620 013  
-Ph : 93451 02411 & 0431 3291434  
-Email : <mail@srijaisanthoshi.com>  
-Website : [www.srijaisanthoshi.com](http://www.srijaisanthoshi.com/)
-
-***
-
-### Rajasthan, India
-
-Pragat Santoshi Maa Temple  
-Lall Sagar  
-Jodhpur  
-Rajasthan
+Santoshi Maa Temple  
+Harinagar  
+Near Bus Depot  
+Delhi
 
 ***
 
@@ -118,68 +56,21 @@ Gujarat
 
 ***
 
+### Jharkhand, India
 
-### Odisha, India
-
-Bachhada,
-Post - Jagannathpur,
-Via - Anantpur,
-Bhadrak - 756 046,
-Odisha
-
-***
-
-### West Bengal, India
-
-Ma Santoshi Mandir  
-Near Ma Chinnamasta and Ma Bogolamukhi Kali Mandir  
-Radha Nagar Road  
-Chitra Cinema Hall  
-Asansol District  
-Burdwan, West Bengal 
+NH-33,  
+Doomardaga, Booty,  
+Near Choudhary Service Center,  
+Ranchi,  
+Jharkhand - 835 217  
 
 ***
 
-C.M.E Gate  
-South Side  
-Kharagpur - 721 301  
-West Midnapore District  
-West Bengal  
-Phone: 8972696173, 9851221920
-
-***
-
-### Maharastra, India
-
-Shree Santoshimataji Mandir  
-Tenament Bldg  
-Near Authurroad Jail  
-Sane Guruji road  
-Chinchpokli (W)  
-Mumbai - 12  
-Maharastra
-
-***
-
-Shree Santoshimataji Mandir  
-486 M. Aazad Road, Ladi Bazar  
-Mumbai - 4  
-Maharastra  
-Tel: 23857356
-
-***
-
-Santoshi Mata Temple  
-Mulund West  
-Close to Check Naka  
-Thane, Maharashtra
-
-***
-
-Santoshi Mata Temple  
-Ashagadh  
-Dahanu  
-Maharashtra
+Mata Santoshi Mandir  
+Santoshidham  
+Chakradharpur - 833 102  
+West Singhbhum  
+Jharkhand
 
 ***
 
@@ -206,7 +97,6 @@ Ph: 9845267149
 
 ***
 
-	
 Jai Santoshi Mata Mandir  
 Mungnal  
 Karnataka  
@@ -248,30 +138,72 @@ Ph: 9916932558
 
 ***
 
-### Delhi, India
+### Madhya Pradesh, India
 
-Santoshi Maa Temple  
-Harinagar  
-Near Bus Depot  
-Delhi
-
-***
-
-### Jharkhand, India
-
-NH-33,  
-Doomardaga, Booty,  
-Near Choudhary Service Center,  
-Ranchi,  
-Jharkhand - 835 217  
+Sri Santoshi Mata Temple  
+Garha Bazar, Garha  
+Jabalpur  
+Madhya Pradesh
 
 ***
 
-Mata Santoshi Mandir  
-Santoshidham  
-Chakradharpur - 833 102  
-West Singhbhum  
-Jharkhand
+### Maharastra, India
+
+Shree Santoshimataji Mandir  
+Tenament Bldg  
+Near Authurroad Jail  
+Sane Guruji road  
+Chinchpokli (W)  
+Mumbai - 12  
+Maharastra
+
+***
+
+Shree Santoshimataji Mandir  
+486 M. Aazad Road, Ladi Bazar  
+Mumbai - 4  
+Maharastra  
+Tel: 23857356
+
+***
+
+Santoshi Mata Temple  
+Mulund West  
+Close to Check Naka  
+Thane, Maharashtra
+
+***
+
+Santoshi Mata Temple  
+Ashagadh  
+Dahanu  
+Maharashtra
+
+***
+
+### Odisha, India
+
+Shri Santoshi Maa Mandir,  
+Shani Mandir Gali,  
+Manik Ghose Bajar,  
+Cuttack - 753002  
+Odisha
+
+***
+
+Santoshi Mata Mandir,  
+Main Cuttack - Puri Road,  
+Bomikhal,  
+Bhubaneswar - 751006  
+Odisha
+
+***
+
+Bachhada  
+Post - Jagannathpur  
+Via - Anantpur  
+Bhadrak - 756 046  
+Odisha
 
 ***
 
@@ -282,6 +214,50 @@ Village Kanhe Ka Bara,
 Karoran,  
 Rupnagar,  
 Punjab
+
+***
+
+### Rajasthan, India
+
+Pragat Santoshi Maa Temple  
+Lall Sagar  
+Jodhpur  
+Rajasthan
+
+***
+
+### Tamil Nadu, India
+
+Virugambakkam  
+Chennai  
+Tamil Nadu  
+Tel: 42016638 (city code 044)
+
+***
+
+Sri Santhoshi Matha Temple,  
+A/137 A, Santhoshi Nivash,  
+Jai Nagar, Thiruverumbur,  
+Trichy - 620 013  
+Ph : 93451 02411 & 0431 3291434  
+Email : <mail@srijaisanthoshi.com>  
+Website : [www.srijaisanthoshi.com](http://www.srijaisanthoshi.com/)
+
+***
+
+### Telangana, India
+
+Hunter Road  
+Warangal City  
+Telangana
+
+***
+
+Santoshi Temple  
+Kutbi Guda, Kachiguda  
+Hyderabad - 500027  
+Telangana  
++91 96188 83828
 
 ***
 
@@ -301,3 +277,25 @@ Bara Chauraha,
 M.G. Road,  
 Kanpur Nagar,  
 Uttar Pradesh
+
+***
+
+### West Bengal, India
+
+Ma Santoshi Mandir  
+Near Ma Chinnamasta and Ma Bogolamukhi Kali Mandir  
+Radha Nagar Road  
+Chitra Cinema Hall  
+Asansol District  
+Burdwan, West Bengal 
+
+***
+
+C.M.E Gate  
+South Side  
+Kharagpur - 721 301  
+West Midnapore District  
+West Bengal  
+Phone: 8972696173, 9851221920
+
+***
