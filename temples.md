@@ -118,6 +118,17 @@ Gujarat
 
 ***
 
+
+### Odisha, India
+
+Bachhada,
+Post - Jagannathpur,
+Via - Anantpur,
+Bhadrak - 756 046,
+Odisha
+
+***
+
 ### West Bengal, India
 
 Ma Santoshi Mandir  
