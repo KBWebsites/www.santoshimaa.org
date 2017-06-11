@@ -55,7 +55,24 @@ gallery2016:
 - /files/events/2016/6.jpg
 - /files/events/2016/7.jpg
 - /files/events/2016/8.jpg
+gallery2017:
+- /files/events/2017/1.jpg
+- /files/events/2017/2.jpg
+- /files/events/2017/3.jpg
+- /files/events/2017/4.jpg
+- /files/events/2017/5.jpg
+- /files/events/2017/6.jpg
+- /files/events/2017/7.jpg
+- /files/events/2017/8.jpg
+- /files/events/2017/9.jpg
+- /files/events/2017/10.jpg
+- /files/events/2017/11.jpg
+- /files/events/2017/12.jpg
 ---
+### Santoshi Maa Festival at Mariani, Jorhat, Assam on 9th June, 2017 (Friday):
+
+{% include gallery.htm images=page.gallery2017 image_height=195 %}
+
 ### Santoshi Maa Festival at Mariani, Jorhat, Assam on 13th May, 2016 (Friday):
 
 {% include gallery.htm images=page.gallery2016 image_height=250 %}
@@ -82,6 +99,4 @@ gallery2016:
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
-<script>$(document).ready(function() {
-$(".gallery-images a").fancybox();
-});</script>
+<script>$(document).ready(function() { $(".gallery-images a").fancybox(); });</script>
