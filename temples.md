@@ -263,6 +263,15 @@ Telangana
 
 ### Uttar Pradesh, India
 
+Shree Santoshi Mata Mandir,  
+Village "Roti"  
+Near Digharua Chauraha,  
+Bindki-Amuli Road,  
+Fatehpur District  
+Uttar Pradesh
+
+***
+
 Village Rataniyapur,  
 Teh. Derapur,  
 Dist. Kanpur Rural  
