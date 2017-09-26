@@ -181,6 +181,19 @@ Maharashtra
 
 ***
 
+Santoshi Mata Mandir  
+Aalandi  
+Near Pune  
+
+Directions:  
+Go to Pune Swargate Station  
+Catch PMPL Bus  
+Go to Pune Corporation PMPL Bus Stop  
+Catch Aalandi Bus  
+Contact: +91 99223 33201
+
+***
+
 ### Odisha, India
 
 Shri Santoshi Maa Mandir,  
