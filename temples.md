@@ -58,9 +58,9 @@ Gujarat
 
 ### Himachal Pradesh, India
 
-Ladraur 
-Ghumarvin
-Bilaspur
+Ladraur  
+Ghumarvin  
+Bilaspur  
 Himachal Pradesh
 
 ***
