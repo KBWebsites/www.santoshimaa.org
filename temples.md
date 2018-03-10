@@ -56,6 +56,15 @@ Gujarat
 
 ***
 
+### Himachal Pradesh, India
+
+Ladraur 
+Ghumarvin
+Bilaspur
+Himachal Pradesh
+
+***
+
 ### Jharkhand, India
 
 NH-33,  
