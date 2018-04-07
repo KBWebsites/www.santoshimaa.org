@@ -52,7 +52,8 @@ Delhi
 Koba Circle  
 Airport Gandhinagar Road  
 Ahmedabad  
-Gujarat
+Gujarat  
+<https://www.bhaktibharat.com/mandir/shankh-mandir-gandhinagar>
 
 ***
 
