@@ -14,6 +14,7 @@ To be blessed always, remember Maa Santoshi always !!!
 
 <div class="slider-wrapper theme-bar" style="width: 424px; margin: 5px auto; clear:both">
     <div id="slider" class="nivoSlider">
+        <img src="/files/events/2018/home.jpg" alt="Santoshi Maa Festival at Mariani, Jorhat, Assam on 27th April, 2018">
         <img src="/files/events/2017/home.jpg" alt="Santoshi Maa Festival at Mariani, Jorhat, Assam on 9th June, 2017">
         <img src="/files/events/2016/home.jpg" alt="Santoshi Maa Festival at Mariani, Jorhat, Assam on 13th May, 2016">
         <img src="/files/events/2015/homepage.jpg" alt="Santoshi Maa Festival at Mariani, Jorhat, Assam on 22nd May, 2015">
