@@ -68,7 +68,19 @@ gallery2017:
 - /files/events/2017/10.jpg
 - /files/events/2017/11.jpg
 - /files/events/2017/12.jpg
+gallery2018:
+- /files/events/2018/1.jpg
+- /files/events/2018/2.jpg
+- /files/events/2018/3.jpg
+- /files/events/2018/4.jpg
+- /files/events/2018/5.jpg
+- /files/events/2018/6.jpg
 ---
+
+### Santoshi Maa Festival at Mariani, Jorhat, Assam on 27th April, 2018 (Friday):
+
+{% include gallery.htm images=page.gallery2018 image_height=195 %}
+
 ### Santoshi Maa Festival at Mariani, Jorhat, Assam on 9th June, 2017 (Friday):
 
 {% include gallery.htm images=page.gallery2017 image_height=195 %}
