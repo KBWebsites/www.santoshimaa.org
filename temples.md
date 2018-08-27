@@ -270,6 +270,18 @@ Website : [www.srijaisanthoshi.com](http://www.srijaisanthoshi.com/)
 
 ### Telangana, India
 
+Sree Santoshi Mata Temple
+
+NH 65  
+Sreeram Nagar Colony  
+Patancheru  
+Hyderabad - 502319  
+Telangana  
+Phone: 099490 11322  
+[Map](https://www.vidteq.com/Hyderabad/Sree-Santoshi-Mata-Temple/Story?id=98207987)
+
+***
+
 Hunter Road  
 Warangal City  
 Telangana
