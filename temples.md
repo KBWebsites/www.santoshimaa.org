@@ -270,8 +270,7 @@ Website : [www.srijaisanthoshi.com](http://www.srijaisanthoshi.com/)
 
 ### Telangana, India
 
-Sree Santoshi Mata Temple
-
+Sree Santoshi Mata Temple  
 NH 65  
 Sreeram Nagar Colony  
 Patancheru  
