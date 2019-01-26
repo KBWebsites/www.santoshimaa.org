@@ -61,9 +61,9 @@ layout: default
 <table>
 <col width="60%">
 <col width="40%">
-<tr>
-  <th>(English)</th>
-  <th>(English Phonetic)</th>
+<tr border="0">
+  <th border="0">English</th>
+  <th border="0">English Phonetic</th>
 </tr>
 <tr>
   <td>Glory, all glory to you, O Mother Santoshi; being a goddess of compassionate and contended disposition you bestow on your faithful devotees both joy and wealth.</td>
