@@ -24,7 +24,8 @@ hr{border: 1px solid #ccc; width: 45%; background: none; margin: 0 0 10px}
 #header-marquee{font-size: 16px; text-transform: uppercase; background: #600; color:#fff; padding: 7px; border-radius: 10px 10px 0 0;}
 #footer-marquee{border-top: 1px solid #600; padding: 6px 0 7px; clear:both; text-align:center}
 #footer{clear:both}
-#footer p{text-align:center; color:#fff; padding:10px; margin:0}
+#footer p{text-align:center; color:rgba(255, 255, 255, .5); padding:10px; margin:0}
+#footer a{color: #ffe6e6;}
 
 #header h1{
 font-family: Verdana, sans-serif;
