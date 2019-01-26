@@ -13,6 +13,7 @@ marquee{display:block}
 input[type=text],input[type=email],textarea{border:1px solid rgba(0,0,0,0.3); padding: 5px 7px; border-radius: 0; -webkit-appearance: none}
 button{padding: 10px 15px}
 hr{border: 1px solid #ccc; width: 45%; background: none; margin: 0 0 10px}
+sup,sub{font-size:10px}
 
 #header{text-align:center; margin:25px 0; clear:both}
 #wrapper{width: 1000px; float: left; background: #fff; background: linear-gradient(lightgray 0%, white 20%); box-shadow: 0 0 25px 1px #000; border-radius: 10px;}
@@ -21,7 +22,7 @@ hr{border: 1px solid #ccc; width: 45%; background: none; margin: 0 0 10px}
 #sidebar h1{text-align:center}
 #sidebar ul{background:#600; border-radius:10px; float:left; width:170px; margin-top:15px; padding:10px 15px}
 #sidebar ul a{color:#fff}
-#header-marquee{font-size: 16px; text-transform: uppercase; background: #600; color:#fff; padding: 7px; border-radius: 10px 10px 0 0;}
+#header-callout{text-align:center;font-size: 16px; background: #600; color:#fff; padding: 7px; border-radius: 10px 10px 0 0;}
 #footer-marquee{border-top: 1px solid #600; padding: 6px 0 7px; clear:both; text-align:center}
 #footer{clear:both}
 #footer p{text-align:center; color:rgba(255, 255, 255, .5); padding:10px; margin:0}
