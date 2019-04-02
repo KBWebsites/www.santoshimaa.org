@@ -38,6 +38,14 @@ Andhra Pradesh
 
 ***
 
+Santoshi Maa Temple  
+G.Koduru Village  
+Makavarapalem Mandal  
+Visakhapatnam Dist. - 531 113  
+Andhra Pradesh
+
+***
+
 ### Delhi, India
 
 Santoshi Maa Temple  
