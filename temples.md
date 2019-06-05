@@ -55,6 +55,16 @@ Delhi
 
 ***
 
+GC 28  
+G Block  
+Hari Nagar  
+Pocket G  
+Hari Nagar  
+New Delhi  
+<https://www.bhaktibharat.com/mandir/santoshi-mata-mandir-hari-nagar>
+
+***
+
 ### Gujarat, India
 
 Koba Circle  
