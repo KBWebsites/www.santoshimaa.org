@@ -313,6 +313,13 @@ Telangana
 
 ***
 
+Sangareddy District  
+Zaheerabad Town  
+Telangana State  
+Phone: 9676171118
+
+***
+
 ### Uttar Pradesh, India
 
 Shree Santoshi Mata Mandir,  
