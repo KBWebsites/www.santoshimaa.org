@@ -251,7 +251,8 @@ Odisha
 Santoshi Maa Temple  
 Bijupur  
 Berhampur - 760001  
-Odisha
+Odisha  
+<https://goo.gl/maps/QnNgv6bt5Ahxz1kZ9>
 
 ***
 
