@@ -248,6 +248,13 @@ Odisha
 
 ***
 
+Santoshi Maa Temple  
+Bijupur  
+Berhampur - 760001  
+Odisha
+
+***
+
 ### Punjab, India
 
 Santoshi Mata Mandir,  
