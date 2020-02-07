@@ -121,7 +121,8 @@ Arekere, Bangalore-76
 Contact:  
 Geeta Narwani  
 <puransbangalore@gmail.com>  
-Ph: 9845267149
+Ph: 9845267149  
+[View on Google Maps](https://goo.gl/maps/WAV3cVNcSgsD2Ruw8)
 
 ***
 
