@@ -166,6 +166,14 @@ Ph: 9916932558
 
 ***
 
+Santoshi Maa Temple  
+Gollahalli Gate  
+Nelamangala  
+Bangalore – 562 123  
+India
+
+***
+
 ### Madhya Pradesh, India
 
 Sri Santoshi Mata Temple  
