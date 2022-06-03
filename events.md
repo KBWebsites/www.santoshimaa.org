@@ -105,7 +105,7 @@ gallery2010:
 
 ### Santoshi Maa Festival at Mariani, Jorhat, Assam on 19th November, 2021 (Friday):
 
-{% include gallery.htm images=page.gallery2021 image_height=250 %}
+{% include gallery.htm images=page.gallery2021 image_height=150 %}
 
 ### Santoshi Maa Festival at Mariani, Jorhat, Assam on 17th May, 2019 (Friday):
 
