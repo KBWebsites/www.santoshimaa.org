@@ -2,6 +2,17 @@
 title: Events
 layout: default
 css: //cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css
+gallery2021:
+- /files/events/2021/1.jpg
+- /files/events/2021/2.jpg
+- /files/events/2021/3.jpg
+- /files/events/2021/4.jpg
+- /files/events/2021/5.jpg
+- /files/events/2021/6.jpg
+- /files/events/2021/7.jpg
+- /files/events/2021/8.jpg
+- /files/events/2021/9.jpg
+- /files/events/2021/10.jpg
 gallery2019:
 - /files/events/2019/1.jpg
 - /files/events/2019/2.jpg
@@ -91,6 +102,10 @@ gallery2010:
 - /files/events/2010/9.jpg
 - /files/events/2010/10.jpg
 ---
+
+### Santoshi Maa Festival at Mariani, Jorhat, Assam on 19th November, 2021 (Friday):
+
+{% include gallery.htm images=page.gallery2021 image_height=250 %}
 
 ### Santoshi Maa Festival at Mariani, Jorhat, Assam on 17th May, 2019 (Friday):
 
