@@ -284,6 +284,13 @@ Rajasthan
 
 ***
 
+Santoshi Mata Mandir  
+Police Line  
+Bhilwara  
+Rajasthan
+
+***
+
 ### Tamil Nadu, India
 
 Virugambakkam  
